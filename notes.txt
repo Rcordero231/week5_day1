@@ -1,0 +1,7 @@
+- Created login page in example.py
+- Showcased the relationship between the log in page and the data not being saved after you quit
+- This leads into Brian talking about databases storing data and having memory
+- Talks about how databases can link with eachother'
+- SQL is a relational database, also brings up other databases that are not relational databases (not SQL)
+- Install PostGRES uncheck
+- Install DBeaver
